@@ -100,3 +100,39 @@ body, #footer {
     font-size: 24px;
     
 }
+.lower{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 50px;
+    align-content: center;
+    justify-self: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.bottom {
+    display: flex;
+background-color: #3882f6;
+margin: 50px;
+border-radius: 25px;
+align-items: center;
+justify-content: center;
+
+}
+.bottomw{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    
+}
+.bottomw p{
+    margin: 1px;
+    font-size: 24px;
+}
+.bottom button{
+    margin: 50px;
+    border-color: white;
+    border-radius: 5px;
+}
